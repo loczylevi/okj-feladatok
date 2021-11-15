@@ -35,8 +35,8 @@ with open('KutyaNevek.csv', 'r', encoding='utf-8-sig') as f:
 class Kutya_fajtak:
     def __init__(self,sor):
         sor = sor.strip().split(";")
-        self.id = sor[0]
-        self.nev = str(sor[1])
+        self.id = int(sor[0])
+        self.nev = (sor[1])
         self.eredeti_nev = sor[2]
 
 with open('KutyaFajtak.csv', 'r', encoding='utf-8-sig') as f:
@@ -59,7 +59,7 @@ legidosebb2, fajta, nev = max(legidosebb)
 nev = [sor.kutyanev for sor in kutya_nevek if nev == sor.id]
 fajta = [sor.nev for sor in kutya_fajtak if fajta == sor.id]
 
-print(f"7.feladat: legidosebb kutya neve és fajtája: {nev[0]} { fajta}")
+print(f"7.feladat: legidosebb kutya neve és fajtája: {nev[0]} { fajta[0]}")
 
  
 
