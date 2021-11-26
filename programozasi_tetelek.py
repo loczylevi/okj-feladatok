@@ -16,8 +16,8 @@ def kicsi(lista):
 def ossz(lista):
     x = 0
     for szam in lista:
-        ossz = x + szam
+        x += szam
         
-    return ossz
+    return x
 
         
