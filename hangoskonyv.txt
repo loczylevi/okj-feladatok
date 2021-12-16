@@ -1,0 +1,2 @@
+000.mp3 --> bevezető, fülszöveg 0:00 -tól 0:20 másodpercig
+001.mp3 --> kisebb háttér hangok 2:50 -től
