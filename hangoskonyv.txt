@@ -19,7 +19,7 @@
 001.mp3 --> gyenge háttérbeszéd --> 43:24-kor
 001.mp3 --> 5.fejezet --> 46:56 -tól
 001.mp3 --> háttérbeszéd --> 51:06-tól 51:30-ig
-002.mp3 --> A menekülés idézet/fejezet 3:20 
+002.mp3 --> A menekülés idézet az enciklopédia galagtikából --> 3:20 
 002.mp3 --> 6.fejezet 4:19-től
 002.mp3 --> háttérbeszéd --> 8:10-tól 10:00-ig
 002.mp3 --> 7.fejezet --> 14:10-tól 
@@ -33,7 +33,14 @@
 002.mp3 --> erős háttérbeszéd --> 37:00-tól 38:00-ig
 002.mp3 --> 10.fejezet --> 39:09-tól
 002.mp3 --> gyenge háttérbeszéd --> 40:19-től 43:05-ig
-002.mp3 --> 
-002.mp3 --> 
-002.mp3 --> 
-002.mp3 --> 
+002.mp3 --> gyenge háttérbeszéd --> 47:00-tól 48:00-ig
+002.mp3 --> "az egyetem" idézet az enciklopédia galagtikából --> 52:53-tól
+002.mp3 --> 11.fejezet --> 53:40-tól
+003.mp3 --> kopogás hang --> 0:56-tól 1:00-ig
+003.mp3 --> mintha elnyomott zene menne a háttérben --> 1:00-2:00-ig
+003.mp3 --> 
+003.mp3 --> 
+003.mp3 --> 
+003.mp3 --> 
+003.mp3 --> 
+
