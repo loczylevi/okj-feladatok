@@ -38,9 +38,36 @@
 002.mp3 --> 11.fejezet --> 53:40-tól
 003.mp3 --> kopogás hang --> 0:56-tól 1:00-ig
 003.mp3 --> mintha elnyomott zene menne a háttérben --> 1:00-2:00-ig
+003.mp3 --> gyenge háttérbeszéd --> 3:24-től 3:40-ig
+003.mp3 --> 12.fejezet --> 3:54-től
+003.mp3 --> erős háttérbeszéd --> 4:05-től 6:50-ig
+003.mp3 --> erős háttérbeszéd --> 8:20-tól 9:11-ig
+003.mp3 --> 13.fejezet --> 9:45-től
+003.mp3 --> erős háttérbeszéd --> 10:49-tól 11:00-ig
+003.mp3 --> gyenge háttérbeszéd --> 11:40-től 12:30-ig
+003.mp3 --> közepes háttérbeszéd --> 13:20-tól 13:40-ig
+003.mp3 --> közepes háttérbeszéd --> 14:10 -től 15:59-ig
+003.mp3 --> erős háttérbeszéd --> 16:30-tól 17:00-ig
+003.mp3 --> közepes háttérbeszéd --> 17:30 -től 17:40-ig
+003.mp3 --> közepes háttérbeszéd --> 18:05 -től 18:20-ig 
+003.mp3 --> zaj --> 21:20-tól 21:30-ig
+003.mp3 --> 14.fejezet --> 21:34-től
+003.mp3 --> kongás, kopogás --> 23:58-tól 24:01-ig
+003.mp3 --> háttérbeszéd --> 26:30-tól 27:30-ig
+003.mp3 --> megszakadt a folyamatos beszéd --> 28:24-től 28:27-ig
+003.mp3 --> 15.fejezet --> 30:36-tól 
+003.mp3 --> erős zugás --> 32:20-tól 32:41-ig
+003.mp3 --> "A könyvtár" idézet az eciklopédia galaktikából --> 36:18 -tól
+003.mp3 --> 16.fejezet --> 36:45-től
+003.mp3 --> beszéd hiba "ez egyáltalán nem nagy lelkú" az lelkű szót rosszul mondta --> 39:04-től 39:10-ig
+003.mp3 --> 17.fejezet --> 42:50-től
+003.mp3 --> közepes háttérbeszed --> 45:00-tól 46:50-ig
+003.mp3 --> erős háttérbeszéd --> 48:10-től 49:30-ig
 003.mp3 --> 
 003.mp3 --> 
 003.mp3 --> 
-003.mp3 --> 
-003.mp3 --> 
+
+
+
+
 
