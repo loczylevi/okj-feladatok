@@ -62,10 +62,37 @@
 003.mp3 --> beszéd hiba "ez egyáltalán nem nagy lelkú" az lelkű szót rosszul mondta --> 39:04-től 39:10-ig
 003.mp3 --> 17.fejezet --> 42:50-től
 003.mp3 --> közepes háttérbeszed --> 45:00-tól 46:50-ig
-003.mp3 --> erős háttérbeszéd --> 48:10-től 49:30-ig
-003.mp3 --> 
-003.mp3 --> 
-003.mp3 --> 
+003.mp3 --> erős háttérbeszéd --> 48:10-től 50:30-ig
+003.mp3 --> közepes háttérbeszéd --> 51:18-tól 51:30-ig
+003.mp3 --> gyenge háttérbeszéd --> 52:09-től 52:20-ig
+003.mp3 --> közepes háttérbeszéd --> 53:00-től 53:14-ig
+003.mp3 --> szöveg hiba habozott helyett "habzott"-tot lehetet hallani --> 53:40-től 53:43-ig
+003.mp3 --> háttérbeszed --> 54:10-től 56:27-ig 
+003.mp3 --> 18.fejezet --> 55:50-től 
+004.mp3 --> háttérbeszéd --> 0:10-től 0:47-ig
+004.mp3 --> erős háttérbeszéd --> 1:20-tól 3:40-ig
+004.mp3 --> közepes háttérbeszéd --> 4:20-tól 4:40-ig
+004.mp3 --> közepes háttérbeszéd --> 6:00-tól 7:20-ig
+004.mp3 --> közepes háttérbeszéd --> 8:10-től 10:27-ig
+004.mp3 --> közepes háttérbeszéd --> 12:00-tól 13:00-ig
+004.mp3 --> 19.fejetet --> 14:13-tól
+004.mp3 --> gyenge háttérbeszéd --> 20:20-tól 22:08-ig
+004.mp3 --> közepes háttérbeszéd --> 23:00-tól 23:40-ig
+004.mp3 --> 20.fejezet --> 24:25-től
+004.mp3 --> gyenge háttérbeszéd --> 24:50-től 25:40-ig
+004.mp3 --> közepes háttérbeszéd --> 27:20-tól 27:50-ig
+004.mp3 --> "felvilág" idézet az enciklopédia galaktikából --> 33:32-től  
+004.mp3 --> 21.fejezet --> 34:19-től
+004.mp3 --> gyenge háttérbeszéd --> 36:50-től 37:36-ig 
+004.mp3 --> 
+004.mp3 --> 
+004.mp3 --> 
+004.mp3 --> 
+004.mp3 --> 
+004.mp3 --> 
+004.mp3 --> 
+004.mp3 --> 
+
 
 
 
