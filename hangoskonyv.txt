@@ -1,4 +1,6 @@
 000.mp3 --> bevezető, fülszöveg --> 0:00 -tól 0:20 másodpercig
+001.mp3 --> "A matematikus" idézet az enciklopédia galagtikából --> 0:00-tól 
+001.mp3 --> 1.fejezet --> 1:10-től 
 001.mp3 --> kisebb háttér hangok -->  2:50 -től
 001.mp3 --> gyenge háttérbeszéd a háttérben -->  5:00 -től 5:30 -ig
 001.mp3 --> gyenge beszédhangok a háttérben -->  5:58 -től 9:10 -ig
@@ -84,14 +86,45 @@
 004.mp3 --> "felvilág" idézet az enciklopédia galaktikából --> 33:32-től  
 004.mp3 --> 21.fejezet --> 34:19-től
 004.mp3 --> gyenge háttérbeszéd --> 36:50-től 37:36-ig 
-004.mp3 --> 
-004.mp3 --> 
-004.mp3 --> 
-004.mp3 --> 
-004.mp3 --> 
-004.mp3 --> 
-004.mp3 --> 
-004.mp3 --> 
+004.mp3 --> 22.fejezet --> 49:14-től
+004.mp3 --> 23.fejezet --> 50:57-től 
+004.mp3 --> közepes háttérbeszéd --> 55:25-től 55:38-ig
+005.mp3 --> közepes háttérbeszéd --> 0:12-től 1:20-ig
+005.mp3 --> gyenge háttérbeszéd --> 1:40-től 2:20-ig
+005.mp3 --> közepes háttérbeszéd --> 3:40-től 6:33-ig
+005.mp3 --> gyenge háttérbeszéd --> 7:09-től 7:59-ig
+005.mp3 --> gyenge háttérbeszéd --> 11:40-től 12:16-ig
+005.mp3 --> közepes háttérbeszéd --> 13:50-től 14:57-ig
+005.mp3 --> erős háttérbeszéd --> 15:10-től 15:44-ig
+005.mp3 --> 24.fejezet --> 15:44-től 
+005.mp3 --> gyenge háttérbeszed --> 18:00-tól 19:40-ig
+005.mp3 --> tompa zene --> 20:00-tól 22:14-ig
+005.mp3 --> gyenge háttérbeszed --> 22:50-től 23:40-ig
+005.mp3 --> erős háttérbeszéd --> 23:50-től 24:30-ig
+005.mp3 --> erős háttérbeszéd --> 26:20-tól 27:34-ig
+005.mp3 --> közepes háttérbeszéd --> 28:00-tól 28:31-ig
+005.mp3 --> közepes háttérbeszéd --> 29:20-tól 31:53-ig
+005.mp3 --> gyenge háttérbeszéd --> 32:40-től 34:29-ig
+005.mp3 --> erős háttérbeszéd --> 34:28-tól 34:31-ig 
+005.mp3 --> "Mentés" idézet az enciklopédia galagtikából --> 35:20-tól  
+005.mp3 --> közepes háttérbeszéd --> 36:10-től 37:15-ig
+005.mp3 --> 25.fejezet --> 36:19-től 
+005.mp3 --> gyenge háttérbeszéd --> 37:45-től 40:15-ig
+005.mp3 --> 26.fejezet --> 41:12-től
+005.mp3 --> gyenge háttérbeszéd --> 41:40-től 42:05-ig
+005.mp3 --> közepes háttérbeszéd --> 43:05-től 44:12-ig
+005.mp3 --> közepes háttérbeszéd --> 45:28-tól 46:00-ig
+005.mp3 --> gyenge háttérbeszéd --> 47:00-tól 48:13-ig
+005.mp3 --> gyenge háttérbeszéd --> 50:32-től 51:12-ig
+005.mp3 --> közepes háttérbeszéd --> 52:44-tól 56:18
+005.mp3 --> 27.fejezet --> 53:22-tól 
+006.mp3 --> 28.fejetet --> 2:28-tól 
+006.mp3 --> 29.fejetet --> 4:11-tól 
+006.mp3 --> gyenge háttérbeszéd --> 6:30-tól 7:11-ig
+006.mp3 --> 30.fejezet --> 8:18-tól 
+006.mp3 --> közepes háttérbeszéd --> 11:10-tól 
+006.mp3 --> 
+006.mp3 --> 
 
 
 
