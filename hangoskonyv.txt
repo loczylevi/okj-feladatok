@@ -122,10 +122,20 @@
 006.mp3 --> 29.fejetet --> 4:11-tól 
 006.mp3 --> gyenge háttérbeszéd --> 6:30-tól 7:11-ig
 006.mp3 --> 30.fejezet --> 8:18-tól 
-006.mp3 --> közepes háttérbeszéd --> 11:10-tól 
+006.mp3 --> közepes háttérbeszéd --> 11:10-tól 13:10-ig
+006.mp3 --> gyenge háttérbeszéd --> 15:40-től 16:30-ig
+006.mp3 --> "Mikogén" idézet az enciklopédia galagtikából --> 18:19-től 
+006.mp3 --> gyenge pusmogás --> 18:19-től 18:44-ig
+006.mp3 --> 31.fejezet --> 18:41-től 
+006.mp3 --> gyenge háttérbeszéd --> 21:50-től 22:35-ig
+006.mp3 --> felvétgel hiba "felvilágra lépve" akadozotta lehetett hallani --> 23:28-tól 23:31-ig
+006.mp3 --> gyenge háttérbeszéd --> 27:20-tól 28:50-ig
+006.mp3 --> tompa zene a háttérben/háttérbeszéd --> 29:10-től 35:50-ig
+006.mp3 --> gyenge háttérbeszéd --> 38:20-tól 
+006.mp3 --> 32.fejezet --> 40:40-től
 006.mp3 --> 
 006.mp3 --> 
-
+006.mp3 --> 
 
 
 
