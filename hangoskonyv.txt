@@ -133,11 +133,21 @@
 006.mp3 --> tompa zene a háttérben/háttérbeszéd --> 29:10-től 35:50-ig
 006.mp3 --> gyenge háttérbeszéd --> 38:20-tól 
 006.mp3 --> 32.fejezet --> 40:40-től
-006.mp3 --> 
-006.mp3 --> 
-006.mp3 --> 
-
-
-
+006.mp3 --> közepes háttérbeszéd --> 45:00-tól 46:43-ig
+006.mp3 --> gyenge háttérbeszéd --> 49:17-től 51:21-ig
+006.mp3 --> gyenge háttérbeszéd --> 52:13-tól 54:16-ig
+007.mp3 --> 33.fejezet --> 3:36-tól 
+007.mp3 --> 34.fejezet --> 8:47-től 
+007.mp3 --> "A Napmester" idézet az enciklopédia galagtikából --> 16:34-től
+007.mp3 --> 35.fejezet --> 17:10-tól
+007.mp3 --> gyenge háttérbeszéd --> 25:15-tól 26:36-ig
+007.mp3 --> 36.fejezet --> 26:56-tól
+007.mp3 --> 37.fejezet --> 39:06-tól
+007.mp3 --> 38.fejezet --> 44:10-tól 
+007.mp3 --> 39.fejezet --> 56:12-tól
+007.mp3 --> 
+007.mp3 --> 
+007.mp3 --> 
+007.mp3 --> 
 
 
