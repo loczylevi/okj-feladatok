@@ -153,17 +153,32 @@
 008.mp3 --> erős kopogás a háttérben --> 11:09-től 11:43-ig 
 008.mp3 --> közepes háttérben --> 21:08-tól 23:52-ig 
 008.mp3 --> 42.fejezet --> 25:28-tól 
-008.mp3 -->  közepes háttérben --> 27:58-tól 28:49-ig 30:20-ig
+008.mp3 --> közepes háttérben --> 27:58-tól 28:49-ig 30:20-ig
 008.mp3 --> közepes háttérben --> 37:59-tól 39:24-ig
+008.mp3 --> 43.fejetet --> 37:59-tól 
 008.mp3 --> kopogás --> 39:48-tól 40:15-ig
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
+008.mp3 --> tompa bugás --> 40:50-től 42:00-ig 
+008.mp3 --> 44.fejezet --> 51:25-től 
+008.mp3 --> kopogás --> 54:40-től 55:52-ig
+009.mp3 --> kopogás --> 2:30-tól 2:56-ig
+009.mp3 --> "A Könyv" idézet az enciklopédia galaktikából --> 2:58-tól 
+009.mp3 --> 45.fejezet --> 3:34-tól 
+009.mp3 --> gyenge háttérbeszed --> 8:20-tól 9:04-ig
+009.mp3 --> 46.fejetet --> 12:10-tól
+009.mp3 --> 47.fejezet --> 16:47-től
+009.mp3 --> kopogás --> 26:35-től 27:41-ig
+009.mp3 --> erős folyamatos kopogás/beszédhangok/kutyaugatás!!! --> 28:00-tól 52:14-ig 
+009.mp3 --> 48.fejezet --> 36:42-től 
+009.mp3 --> 49.fejezet --> 45:07-től 
+009.mp3 --> "Szakratórium" idézet az enciklopédia galaktikából --> 51:29-tól 
+009.mp3 --> 50.fejetet --> 52:08-tól 
+009.mp3 --> közepes háttérbeszed --> 52:43-tól 56:23-ig 
+010.mp3 --> 
+010.mp3 -->  
+010.mp3 --> 
+
+
+
 
 
 
