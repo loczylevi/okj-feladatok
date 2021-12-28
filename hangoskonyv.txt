@@ -177,13 +177,29 @@
 010.mp3 --> 51.fejetet --> 8:42-től 
 010.mp3 --> 52.fejetet --> 14:20-tól 
 010.mp3 --> kopogás --> 23:33-tól 24:42-ig 
-010.mp3 --> 
-010.mp3 --> 
-010.mp3 --> 
-010.mp3 --> 
-010.mp3 --> 
-010.mp3 --> 
-
+010.mp3 --> közepes kopogás/háttérbeszed --> 27:08-tól 28:00-ig 
+010.mp3 --> 53.fejezet --> 32:30-tól 
+010.mp3 --> 54.fejezet --> 37:56-tól 
+010.mp3 --> 55.fejezet --> 44:03-tól 
+010.mp3 --> tompa kiabálás --> 47:10-tól 47:27-ig
+010.mp3 --> halk zugás --> 51:00-tól 51:22-ig
+010.mp3 --> "A Sasfészek" idézet az enciklopédia galaktikából --> 53:26-tól 
+010.mp3 --> 56.fejezet --> 54:09-től 
+011.mp3 --> közepes háttérbeszed --> 1:40-től 4:57-ig
+011.mp3 --> 57.fejezet --> 3:54-től 
+011.mp3 --> gyenge háttérbeszed --> 5:05-től 7:00-ig 
+011.mp3 --> 
+011.mp3 --> 
+011.mp3 --> 
+011.mp3 --> 
+011.mp3 --> 
+011.mp3 --> 
+011.mp3 --> 
+011.mp3 --> 
+011.mp3 --> 
+011.mp3 --> 
+011.mp3 --> 
+011.mp3 --> 
 
 
 
