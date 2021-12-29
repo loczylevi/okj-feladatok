@@ -187,21 +187,19 @@
 010.mp3 --> 56.fejezet --> 54:09-től 
 011.mp3 --> közepes háttérbeszed --> 1:40-től 4:57-ig
 011.mp3 --> 57.fejezet --> 3:54-től 
-011.mp3 --> gyenge háttérbeszed --> 5:05-től 7:00-ig 
+011.mp3 --> gyenge háttérbeszed --> 5:05-től 7:17-ig 
+011.mp3 --> közepes háttérbeszed --> 9:09-től 14:58-ig 
+011.mp3 --> erős háttérbeszed --> 15:35-től 17:16-ig
+011.mp3 --> 58.fejetet --> 17:18-tól 
+011.mp3 --> gyenge háttérbeszed --> 22:31-től 23:16-ig 
+011.mp3 --> közepes háttérbeszed --> 24:04-től 29:59-ig 
+011.mp3 --> gyenge háttérbeszed --> 31:20-tól 36:50-ig 
+011.mp3 --> 59.fejetet --> 36:47-től 
+011.mp3 --> közepes háttérbeszed --> 37:23-tól 47:05-ig 
+011.mp3 --> 60.fejetet --> 47:03-tól 
 011.mp3 --> 
 011.mp3 --> 
 011.mp3 --> 
-011.mp3 --> 
-011.mp3 --> 
-011.mp3 --> 
-011.mp3 --> 
-011.mp3 --> 
-011.mp3 --> 
-011.mp3 --> 
-011.mp3 --> 
-011.mp3 --> 
-
-
 
 
 
