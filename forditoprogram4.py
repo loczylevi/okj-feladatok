@@ -82,13 +82,16 @@ while folytkov:
             megoldas.append("uuuuí = hol")        
         if "uuuui" in sor:
             megoldas.append("uuuui = mikor")
-    #else:
-        
+    
+            
+               
         print(f"Forditás eredménye: {megoldas}")
         print("")
         folytkov = True
         
-        
+    if bekeres == "Grrr":
+        folytkov = False
+        print(">>> Program vége <<<")
     
     
 #_______________________________________________________
@@ -108,6 +111,7 @@ while folytkov:
     if " " in sor:
         megoldas.append("")
 """
+
 
 
 
