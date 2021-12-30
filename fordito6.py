@@ -5,12 +5,11 @@ while folytkov:
         lista = []
         for sor in f2:
             lista.append(sor.strip().split("="))
-    megoldas = []
+    
     bekeres = input("Kérem a lefordítandó mondatot!\t")
     for sor in lista:
         if bekeres == sor[0]:
-            megoldas.append(sor[1])
-            print(f"Forditás eredménye: {megoldas}")
+            print(f"Forditás eredménye: {sor[1]}")
             print("")
             folytkov = True
         
