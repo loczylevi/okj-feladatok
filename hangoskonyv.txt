@@ -197,9 +197,24 @@
 011.mp3 --> 59.fejetet --> 36:47-től 
 011.mp3 --> közepes háttérbeszed --> 37:23-tól 47:05-ig 
 011.mp3 --> 60.fejetet --> 47:03-tól 
-011.mp3 --> 
-011.mp3 --> 
-011.mp3 --> 
+011.mp3 --> közepes háttérbeszed --> 47:40-től 53:34-ig
+012.mp3 --> "A hőkút" idézet az enciklopédia galaktikából --> 1:43-tól 
+012.mp3 --> közepes háttérbeszed --> 2:07-től 4:45-ig 
+012.mp3 --> 61.fejezet --> 2:25-tól 
+012.mp3 --> közepes háttérbeszed --> 6:54-tól 9:11-ig 
+012.mp3 --> gyenge háttérbeszéd --> 9:40-tól 14:58-ig 
+012.mp3 --> 62.fejezet --> 16:28-ig  
+012.mp3 --> közepes háttérbeszed --> 20:16-tól 22:30-ig
+012.mp3 --> gyenge háttérbeszed --> 23:40-től 25:00-ig 
+012.mp3 --> erős zugás --> 26:43-tól 27:25-ig 
+012.mp3 --> közepes háttérbeszed --> 27:50-tól 29:24-ig 
+012.mp3 --> gyenge háttérbeszed --> 31:00-től 32:28-ig 
+012.mp3 --> 63.fejetet --> 32:25-től 
+012.mp3 --> közepes háttérbeszed --> 39:10-tól 40:33-ig
+012.mp3 --> közepes háttérbeszed --> 44:34-tól 47:30-ig
+012.mp3 --> 64.fejezet --> 47:27-tól 
+012.mp3 --> 
+012.mp3 --> 
 
 
 
