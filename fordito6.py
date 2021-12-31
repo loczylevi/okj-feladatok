@@ -1,6 +1,6 @@
 folytkov = True
 while folytkov:
-    with open("fordito.txt", "r",encoding="utf-8") as f2:
+    with open("fordito2.txt", "r",encoding="utf-8") as f2:
         elso_sor = f2.readline()
         lista = []
         for sor in f2:
