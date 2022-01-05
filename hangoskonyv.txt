@@ -213,8 +213,37 @@
 012.mp3 --> közepes háttérbeszed --> 39:10-tól 40:33-ig
 012.mp3 --> közepes háttérbeszed --> 44:34-tól 47:30-ig
 012.mp3 --> 64.fejezet --> 47:27-tól 
-012.mp3 --> 
-012.mp3 --> 
+012.mp3 --> közepes háttérbeszed --> 47:30-tól 56:19-ig 
+012.mp3 --> 65.fejetet --> 52:16-tól 
+013.mp3 --> felvétel hiba --> 0:00-tól 0:01-ig 
+013.mp3 --> közepes háttérbeszed --> 0:10-től 0:54-ig 
+013.mp3 --> közepes háttérbeszed --> 2:40-től 4:48-ig  
+013.mp3 --> erős háttérbeszed --> 9:00-tól 9:20-ig 
+013.mp3 --> "Bilibotton" idézet az enciklopédia galaktikából --> 12:47-től 
+013.mp3 --> 66.fejezet --> 13:30-tól 
+013.mp3 --> zaj --> 16:29-től 16:31-ig 
+013.mp3 --> közepes háttérbeszed --> 18:00-tól 20:01-ig  
+013.mp3 --> 67.fejetet --> 20:30-tól 
+013.mp3 --> közepes háttérbeszed --> 20:19-től 28:50-ig
+013.mp3 --> 68.fejetet --> 29:15-től 
+013.mp3 --> közepes háttérbeszéd --> 30:10-től 34:14-ig 
+013.mp3 --> 69.fejetet --> 34:45-től 
+013.mp3 --> bugás --> 36:00-tól 36:33-ig 
+013.mp3 --> közepes háttérbeszéd --> 38:05-tól 42:30-ig 
+013.mp3 --> 70.fejetet --> 45:10-tól 
+013.mp3 --> recsegő hang --> 46:20-tól 46:30-ig 
+013.mp3 --> gyenge háttérbeszéd --> 47:00-ig 50:30-ig 
+013.mp3 --> gyenge háttérbeszéd --> 51:30-tól 52:45-ig 
+013.mp3 --> 71.fejetet --> 54:30-ig 
+013.mp3 --> 
+013.mp3 --> 
+013.mp3 --> 
+013.mp3 --> 
+013.mp3 --> 
+013.mp3 --> 
+013.mp3 --> 
+013.mp3 --> 
+013.mp3 --> 
 
 
 
