@@ -235,15 +235,40 @@
 013.mp3 --> gyenge háttérbeszéd --> 47:00-ig 50:30-ig 
 013.mp3 --> gyenge háttérbeszéd --> 51:30-tól 52:45-ig 
 013.mp3 --> 71.fejetet --> 54:30-ig 
-013.mp3 --> 
-013.mp3 --> 
-013.mp3 --> 
-013.mp3 --> 
-013.mp3 --> 
-013.mp3 --> 
-013.mp3 --> 
-013.mp3 --> 
-013.mp3 --> 
+014.mp3 --> közepes háttérbeszed --> 0:30-tól 4:49-ig 
+014.mp3 --> "illegalitásban" idézet az enciklopédia galaktikából --> 10:13-tól 
+014.mp3 --> gyenge háttérbeszed --> 10:15-tól 11:20-ig 
+014.mp3 --> 72.fejetet --> 10:58-tól 
+014.mp3 --> közepes háttérbeszed --> 13:47-tól 17:09-ig 
+014.mp3 --> 73.fejetet --> 17:37-től 
+014.mp3 --> közepes háttérbeszed --> 19:39-től 22:16-ig
+014.mp3 --> 74.fejetet --> 22:27-től 
+014.mp3 --> közepes háttérbeszed --> 24:50-tól 26:17-ig 
+014.mp3 --> 75.fejetet --> 26:21-től 
+014.mp3 --> gyenge háttérbeszed --> 27:50-tól 31:00-ig 
+014.mp3 --> közepes háttérbeszed --> 33:14-tól 35:28-ig
+014.mp3 --> közepes háttérben --> 40:40-tól 42:33-ig 
+014.mp3 --> gyenge háttérbeszed --> 45:09-től 48:40-ig 
+014.mp3 --> 76.fejetet --> 48:40-tól 
+014.mp3 --> közepes háttérbeszed --> 50:20-tól 54:34-ig 
+014.mp3 --> "Rendörök" idézet az eciklopédia galagtikából --> 55:44-től 
+014.mp3 --> 77.fejetet --> 56:09-tól 
+015.mp3 --> felvétel hiba --> 0:00-tól 0:01-ig 
+015.mp3 --> közepes háttérbeszed --> 0:04-tól 4:19-ig 
+015.mp3 --> közepes folyamatos háttérbeszed --> 5:17-től 13:33-ig 
+015.mp3 --> 78.fejetet --> 8:31-től 
+015.mp3 --> közepes háttérbeszed --> 19:30-tól 21:00-ig 
+015.mp3 --> 79.fejetet --> 21:12-től 
+015.mp3 --> itt tartunk 29:12
+015.mp3 --> 
+015.mp3 --> 
+015.mp3 --> 
+015.mp3 --> 
+015.mp3 --> 
+015.mp3 --> 
+015.mp3 --> 
+015.mp3 --> 
+015.mp3 --> 
 
 
 
