@@ -279,18 +279,22 @@
 016.mp3 --> 87.fejezet --> 45:00-tól 
 016.mp3 --> gyenge háttérbeszed --> 47:18-tól 51:46-ig 
 016.mp3 --> 88.fejezet --> 52:08-tól 
-017.mp3 --> 
-017.mp3 --> 
-017.mp3 --> 
-017.mp3 --> 
-017.mp3 --> 
-017.mp3 --> 
-
-
-
-
-
-
-
+017.mp3 --> recsegés,háttérbeszed --> 0:00-tól 10:40-ig 
+017.mp3 --> 89.fejetet --> 9:18-tól 
+017.mp3 --> közepes háttérbeszed --> 9:18-tól 14:55-ig 
+017.mp3 --> közepes háttérbeszed --> 17:20-tól 20:00-ig 
+017.mp3 --> erős háttérbeszed --> 21:44-től 23:10-ig 
+017.mp3 --> 90.fejetet --> 23:47-ig 
+017.mp3 --> közepes háttérbeszed --> 23:50-től 35:48-ig 
+017.mp3 --> "Dorsz" idézet az eciklopédia galagtikából --> 35:48-tól 
+017.mp3 --> 91.fejezet --> 37:15-től 
+017.mp3 --> közepes háttérbeszed --> 37:37-től 50:35-ig 
+017.mp3 --> 92.fejetet --> 50:00-tól 
+017.mp3 --> közepes háttérbeszed --> 51:00-tól 56:35-ig 
+018.mp3 --> 93.fejezet --> 0:00-tól 
+018.mp3 --> közepes háttérbeszed --> 1:00-tól 3:11-ig 
+018.mp3 --> 94.fejetet --> 14:51-től 
+018.mp3 --> közepes háttérbeszed --> 15:30-től 25:39
+______________________________________________________________ VÉGE _______________________________
 
 
