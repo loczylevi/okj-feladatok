@@ -32,13 +32,6 @@ while True:
     bekeres = input("kérek egy betüt!\t")
     kereso = [szo for szo in szeletelo if bekeres == szo]
     tarolo = kereso
-    if elet == 0 or elet2 == 0:
-        print(f"Sajnálom elfogytak az életeid Vége a játéknak! A szó amire gondoltam: {kivalaszt}")
-        print("<<< GAME OVER >>>")
-        break
-    if tipp == meddig:
-        print(f"Gratulálok, eltaláltad! A szó amire gondoltam: {kivalaszt}")
-        break
     if len(kereso) > 0:
         tipp = tipp + 1
         szeletelo.remove(tarolo[0])
@@ -50,3 +43,11 @@ while True:
         elet2 = elet2 - 1
         print(f"Nem, Ez a betű: \"{bekeres}\" NEM szerepel a szóban!")
         print(f"A jo betük eddig: {eltalalt}")
+    if elet == 0 or elet2 == 0:
+        print(f"Sajnálom elfogytak az életeid Vége a játéknak! A szó amire gondoltam: {kivalaszt}")
+        print("<<< GAME OVER >>>")
+        break
+    if tipp == meddig:
+        print(f"Gratulálok, eltaláltad! A szó amire gondoltam: {kivalaszt}")
+        break
+    
