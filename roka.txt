@@ -20,46 +20,21 @@
 003.mp3 --> hangfelvétel hiba --> 24:20-tól 24:22-ig 
 003.mp3 --> 4.fejezet --> 25:42-től 
 004.mp3 --> közepes háttérbeszéd --> 0:00-tól 28:32-ig 
-004.mp3 --> 5.fejezet --> 26_52-től 
+004.mp3 --> 5.fejezet --> 26:52-től 
 005.mp3 --> közepes háttérbeszéd --> 0:00-tól 28:15-ig 
 006.mp3 --> 6.fejezet --> 1:57-től 
 006.mp3 --> közepes háttérbeszéd --> 21:20-tól 22:00-ig 
 006.mp3 --> közepes háttérbeszéd --> 0:40-től 1:13-ig 
 006.mp3 --> közepes háttérbeszéd --> 7:05-től 7:46-ig 
-006.mp3 --> 7.fejezet --> 12:41-től 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-008.mp3 --> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+007.mp3 --> 7.fejezet --> 12:41-től 
+008.mp3 --> gyenge háttérbeszéd --> 0:25-től 1:19-ig 
+008.mp3 --> 8.fejezet --> 16:36-tól 
+009.mp3 --> 19:19-nál tartunk !!!!!!!!!!!!!!!!
+009.mp3 --> 
+009.mp3 --> 
+009.mp3 --> 
+009.mp3 --> 
+009.mp3 --> 
+009.mp3 --> 
+009.mp3 --> 
+009.mp3 --> 
