@@ -1,0 +1,65 @@
+001.mp3 --> bevezető, fülszöveg --> 0:00 -tól 0:19 másodpercig
+001.mp3 --> 1.fejezet --> 0:18-től 
+001.mp3 --> közepes folyamatos háttérbeszéd --> 0:29-től 28:31-ig (video végéig)
+001.mp3 --> hangfelvétel hiba --> 12:08-tól 12:10-ig 
+001.mp3 --> hangfelvétel hiba --> 19:08 19:11-ig 
+001.mp3 --> hangfelvétel hiba --> 22:38-tól 22:42-ig 
+001.mp3 --> "london 1974" 2.fejezet --> 26:56-tól 
+002.mp3 --> gyenge háttérbeszéd --> 3:00-tól 28:40-ig 
+002.mp3 --> hangfelvétel hiba --> 3:58-tól 4:02-ig 
+002.mp3 --> hangfelvétel hiba --> 4:05-től 4:08-ig
+002.mp3 --> hangfelvétel hiba --> 4:14-től 4:17-ig 
+002.mp3 --> hangfelvétel hiba --> 4:33-tól 4:37-ig 
+002.mp3 --> hangfelvétel hiba --> 4:46-tól 4:49-ig 
+002.mp3 --> hangfelvétel hiba --> 4:50-től 4:52-ig 
+002.mp3 --> hangfelvétel hiba --> 4:57-től 50:00-ig 
+002.mp3 --> 3.fejezet --> 26:47-től 
+003.mp3 --> közepes háttérbeszéd --> 0:00-tól 28:14-ig
+003.mp3 --> nagyon erős háttérbeszéd --> 22:56-tól 28:14-ig
+003.mp3 --> hangfelvétel hiba --> 24:16-tól 24:19-ig 
+003.mp3 --> hangfelvétel hiba --> 24:20-tól 24:22-ig 
+003.mp3 --> 4.fejezet --> 25:42-től 
+004.mp3 --> közepes háttérbeszéd --> 0:00-tól 28:32-ig 
+004.mp3 --> 5.fejezet --> 26_52-től 
+005.mp3 --> közepes háttérbeszéd --> 0:00-tól 28:15-ig 
+006.mp3 --> 6.fejezet --> 1:57-től 
+006.mp3 --> közepes háttérbeszéd --> 21:20-tól 22:00-ig 
+006.mp3 --> közepes háttérbeszéd --> 0:40-től 1:13-ig 
+006.mp3 --> közepes háttérbeszéd --> 7:05-től 7:46-ig 
+006.mp3 --> 7.fejezet --> 12:41-től 
+008.mp3 --> 
+008.mp3 --> 
+008.mp3 --> 
+008.mp3 --> 
+008.mp3 --> 
+008.mp3 --> 
+008.mp3 --> 
+008.mp3 --> 
+008.mp3 --> 
+008.mp3 --> 
+008.mp3 --> 
+008.mp3 --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
