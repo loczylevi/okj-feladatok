@@ -34,7 +34,15 @@
 011.mp3 --> gyenge háttérbeszéd --> 14:00-től 18:00-ig 
 012.mp3 --> 11.fejezet --> 2:22-től 
 012.mp3 --> gyenge háttérbeszéd --> 7:00-tól 9:13-ig 
-012.mp3 --> 
-012.mp3 --> 
-012.mp3 --> 
-012.mp3 --> 
+012.mp3 --> közepes háttérbeszéd --> 15:00-tól 16:48-ig 
+012.mp3 --> gyenge háttérbeszéd --> 19:42-től 20:28-ig 
+012.mp3 --> háttérzaj --> 21:21-től 22:22-ig 
+012.mp3 --> gyenge háttérbeszéd --> 23:11-től 24:11-ig
+012.mp3 --> közepes háttérbeszéd --> 25:00-tól 27:50-ig 
+013.mp3 --> gyenge háttérbeszéd --> 1:01-től 4:59-ig 
+013.mp3 --> közepes háttérbeszéd --> 8:09-től 9:15-ig 
+013.mp3 --> 12.fejezet --> 11:01-től 
+013.mp3 --> gyenge háttérbeszéd --> 22:50-től 28:42-ig 
+013.mp3 --> 
+014.mp3 --> 00:00-nál tarunk!!!!!!!!!!!!!!!!!!!!
+
