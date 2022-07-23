@@ -43,6 +43,25 @@
 013.mp3 --> közepes háttérbeszéd --> 8:09-től 9:15-ig 
 013.mp3 --> 12.fejezet --> 11:01-től 
 013.mp3 --> gyenge háttérbeszéd --> 22:50-től 28:42-ig 
-013.mp3 --> 
-014.mp3 --> 00:00-nál tarunk!!!!!!!!!!!!!!!!!!!!
-
+014.mp3 --> közepes háttérbeszéd --> 0:07-től 0:10-ig
+014.mp3 --> közepes háttérbeszéd --> 1:10-től 3:30-ig
+014.mp3 --> erős háttérbeszéd --> 3:30-tól 4:15-ig
+014.mp3 --> közepes háttérbeszéd --> 4:20-tól 6:30-ig 
+014.mp3 --> hangfelvétel hiba --> 6:37-től 6:40-ig
+014.mp3 --> erős háttérbeszéd --> 7:20-tól 8:56-ig
+014.mp3 --> 13.fejezet --> 9:21-től 
+014.mp3 --> közepes háttérbeszéd --> 9:30-tól 12:22-ig
+014.mp3 --> gyenge háttérbeszéd --> 12:32-től 15:02-ig
+014.mp3 --> bugás --> 16:00-tól 16:53-ig
+014.mp3 --> közepes háttérbeszéd --> 17:00-tól 19:00-ig
+014.mp3 --> nagyon erős háttérbeszéd --> 19:12-től 19:17-ig
+014.mp3 --> közepes háttérbeszéd --> 19:22-től 23:47-ig
+014.mp3 --> erős háttérbeszéd --> 23:55-től 24:04-ig
+014.mp3 --> erős háttérbeszéd --> 26:50-tól 28:00-ig
+015.mp3 --> közepes háttérbeszéd --> 0:09-től 0:13-ig
+015.mp3 --> hangfelvétel hiba --> 0:20-tól 0:22-ig
+015.mp3 --> közepes háttérbeszéd --> 1:20-tól 3:30-ig
+015.mp3 --> közepes háttérbeszéd --> 5:11-től 6:00-ig
+015.mp3 --> 
+015.mp3 --> 
+015.mp3 --> 
