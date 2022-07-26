@@ -62,6 +62,19 @@
 015.mp3 --> hangfelvétel hiba --> 0:20-tól 0:22-ig
 015.mp3 --> közepes háttérbeszéd --> 1:20-tól 3:30-ig
 015.mp3 --> közepes háttérbeszéd --> 5:11-től 6:00-ig
-015.mp3 --> 
-015.mp3 --> 
-015.mp3 --> 
+015.mp3 --> közepes zaj, bugás --> 6:00-tól 28:39-ig
+015.mp3 --> 14.fejezet --> 15:29-től 
+016.mp3 --> zaj, bugás --> 0:52-től 2:01-ig
+016.mp3 --> zaj, bugás, beszéd --> 3:00-tól 5:06-ig
+016.mp3 --> erős háttérbeszéd --> 5:50-től
+016.mp3 --> 15.fejezet --> 15:29-től 
+016.mp3 --> zörgés --> 16:13-től 26:26-ig
+016.mp3 --> erős háttérbeszéd --> 26:26-tól 28:29-ig
+017.mp3 --> erős háttérbeszéd --> 0:01-től
+017.mp3 --> 16.fejezet --> 15:43-tól 
+017.mp3 --> 
+017.mp3 --> 
+017.mp3 --> 
+017.mp3 --> 
+017.mp3 --> 
+017.mp3 --> 
